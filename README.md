@@ -27,7 +27,7 @@ Regarding the characteristics I expect to work on that will help me come up with
   <li> volume_traded (Decimal): The volume of the trades for the day </li>
   <li> value_traded (Decimal): The value of the trades for the day </li>
 </ul>
-
+You can find the dataset from this link: <a herf = "https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul?select=Tadawul_stcks_23_4.csv">
 <h3> Tools: </h3> 
 I will be working on this project using python language and using the following libraries(Pandas, Numpy, Matplotlip, seaborn).
 
