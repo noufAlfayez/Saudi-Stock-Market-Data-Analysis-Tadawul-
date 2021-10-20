@@ -29,5 +29,5 @@ Regarding the characteristics I expect to work on that will help me come up with
 </ul>
 You can find the dataset from this link: https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul?select=Tadawul_stcks_23_4.csv
 <h3> Tools: </h3> 
-I will be working on this project using python language and using the following libraries(Pandas, Numpy, Matplotlip, seaborn).
+I worked on this project using python language and using the following libraries(Pandas, Numpy, Matplotlip, seaborn, sklearn).
 
