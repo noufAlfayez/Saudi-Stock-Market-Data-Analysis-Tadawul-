@@ -1,0 +1,8 @@
+<h2> Predicting Stock Price by Using Linear Regression Model </h2>
+
+<h4> Abstract </h4>
+<p>
+The use of data science in the stock exchange is not new, but this does not apply to the Saudi Stock Exchange (Tadawul), it needs to be explored and studied in depth. 
+This project aims to analyze the Saudi stock market (Tadawul) data, as it answers some questions related to the data, such as: What is the day that achieves the highest trades? 
+What companies have the highest stock price? What companies have the lowest stock price? Then I built a model that predicts stock closing prices for these companies( TAPRCO and STC) which are two oldest companies in the communication service sector by using the (LR) model.
+</p>
